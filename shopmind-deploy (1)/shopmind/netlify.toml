@@ -1,9 +1,0 @@
-[build]
-  command = "npm run build"
-  publish = ".next"
-
-[build.environment]
-  OPENROUTER_API_KEY = "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"
-
-[[plugins]]
-  package = "@netlify/plugin-nextjs"
