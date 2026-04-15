@@ -55,7 +55,7 @@ npm run dev
 
 ## 🌍 Live Demo
 
-https://capable-torrone-273a78.netlify.app/
+https://shopmind-ready.vercel.app/
 
 
 
